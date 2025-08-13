@@ -1,0 +1,4 @@
+[submodule "eurorack-antumbra-ROT8"]
+	path = eurorack-antumbra-ROT8
+	url = git@git-rhino:rhinocerose/eurorack-antumbra-ROT8
+  branch = main
